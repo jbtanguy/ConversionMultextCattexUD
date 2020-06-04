@@ -1,0 +1,23 @@
+{
+	"Ag": "ADJqua",
+	"Dn": "DETind",
+	"Dp": "PRE",
+	"R": "ADVgen",
+	"S": "PRE",
+	"Mo": "ADJord",
+	"Xi": "OUT",
+	"Xs": "OUT",
+	"Xa": "OUT",
+	"OUT": "OUT",
+	"Vuc": "VERcjg",
+	"Vun": "VERinf",
+	"Vvc": "VERcjg",
+	"Vvn": "VERinf",
+	"Ge": "VERppe",
+	"Ga": "VERppa",
+	"PAGe": "VERppe",
+	"PAGa": "VERppa",
+	"S+Da": "PRE.DETdef",
+	"S+Dr": "PRE.DETrel",
+	"S+Pr": "PRE.PROrel"
+}
